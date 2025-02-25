@@ -4,7 +4,7 @@ add=x+y
 sub=x-y
 mul=x*y
 div=x/y
-print("Addition: ",add)
-print("Substraction: ",sub)
-print("Multiplication: ",mul)
-print("Division: ",div)
+print("Addition:",add)
+print("Substraction:",sub)
+print("Multiplication:",mul)
+print("Division:",div)
